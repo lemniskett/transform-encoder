@@ -1,4 +1,4 @@
-module github.com/caddyserver/transform-encoder
+module github.com/lemniskett/transform-encoder
 
 go 1.18
 
